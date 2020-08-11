@@ -12,4 +12,7 @@ export class ButtonComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  onClick(): void {
+    console.log('hello world');
+  }
 }

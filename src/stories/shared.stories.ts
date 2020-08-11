@@ -17,7 +17,7 @@ export const button = () => ({
 
 button.story = {
   parameters: {
-    notes: {Introduction: buttonNote},
+    notes: {markdown: buttonNote},
   }
 }
 
