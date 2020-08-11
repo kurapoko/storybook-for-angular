@@ -14,3 +14,7 @@ export const text = () => ({
   component: TextComponent,
   props: {},
 });
+
+export const template = () => ({
+  template: '<p>template</p>',
+});
